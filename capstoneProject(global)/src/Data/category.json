@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Alter Ego"
+    },
+    {
+        "id": 2,
+        "name": "Depresi"
+    },
+
+    {
+        "id": 3,
+        "name": "Emosi"
+    },
+    {
+        "id": 4,
+        "name": "Fanatisme"
+    },
+
+    {
+        "id": 5,
+        "name": "Gila"
+    },
+    {
+        "id": 6,
+        "name": "Mental Health"
+    },
+    {
+        "id": 7,
+        "name": "Penyembuhan Diri"
+    }
+]
